@@ -9,7 +9,7 @@ This project has been deployed to GitHub and GitHub Pages.
 
 
 
-![](assets/Images/demo.PNG)
+![Demo](https://github.com/RAJBrowder/HW3_Password_Generator_RB/blob/main/assets/images/demo.png)
 
 ### Project Features: 
 * A button to generate a new random password
@@ -19,9 +19,9 @@ This project has been deployed to GitHub and GitHub Pages.
 * A text area
     * After the password is succfully generated, the text area will contain the newly-generated password
 
-![](assets/Images/prompt.PNG)
+![Prompt](https://github.com/RAJBrowder/HW3_Password_Generator_RB/blob/main/assets/images/prompt.png)
 
-![](assets/Images/password.PNG)
+![Password](https://github.com/RAJBrowder/HW3_Password_Generator_RB/blob/main/assets/images/password.png)
 
 
 
